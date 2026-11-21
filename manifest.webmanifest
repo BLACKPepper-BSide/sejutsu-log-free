@@ -1,0 +1,21 @@
+{
+  "name": "施術ログ",
+  "short_name": "施術ログ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./sejutsu-final-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./sejutsu-final-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
